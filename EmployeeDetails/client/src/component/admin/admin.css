@@ -1,0 +1,9 @@
+.backgrounpic{
+    background-color: #90bcf5;
+    font-family: cursive;
+    font-size: medium;
+    min-height: 100vh !important;
+}
+table th{
+    border: 2px solid black;
+}
